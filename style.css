@@ -10,6 +10,7 @@ body {
   grid-row-gap: 10px;
   height: 100vh;
   overflow: hidden;
+  font-family: poppins,sans-serif;
 }
 /* styling for hamburger menu bar */
 .parent {
@@ -141,4 +142,13 @@ body {
   text-align: center;
   justify-content: center;
   margin-top: 10%;
+}
+p{
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+  font-weight: 100;
+}
+p span{
+  font-weight:bold;
 }
