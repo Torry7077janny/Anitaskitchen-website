@@ -1,0 +1,129 @@
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+ body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-image: url(./images/subscribe.jpg);
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    font-family: optima;
+}
+.wrapper{
+    position: absolute;
+    top:20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:500px;
+    text-align: center;
+    margin-top: 0;
+    justify-content: space-between;
+    /* background:#fff; */
+    /* padding: 40px; */
+}
+.wrapper p{
+    color: #fff;
+    font-size:20px;
+    margin-top: 0;
+    text-align: center;
+    /* word-spacing: 3px; */
+}
+.wrapper input{
+    font-size:18px;
+    width:60%;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 3px;
+    /* padding:15px 20px; */
+    margin-left: 10px;
+    outline: black;
+    background: rgba(255, 255, 255, 0.096);
+    color: #fff;
+}
+.wrapper button{
+    color:#fff;
+    height: 40px;
+    width: 30%;
+    font-size: 18px;
+    border: #F15A29;
+    border-radius: 5px;
+    /* padding: 15px 20px; */
+    background: #F15A29;
+    /* justify-content: space-between; */
+
+}
+footer{
+    position:absolute;
+    bottom:0;
+    left:0;
+    right: 0;
+    background: #F15A29;
+    height: 350px;
+    width: 100vw;
+    font-family: optima;
+    padding-top: 40px;
+    color: #fff;
+
+}
+.footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.footer-content .logo{
+    display: flex;
+    align-self: center;
+}
+
+
+
+.footer-content h4{
+    font-size: 30px;
+    font-weight: 300;
+    text-transform:uppercase ;
+} 
+.footer-content p{
+    max-width: 500px;
+    margin:10px auto;
+    font-size: 18px;
+
+}
+.socials{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
+}
+.socials li{
+    margin: 0 10px;
+
+}
+.socials a{
+    text-decoration: none;
+    color: #fff;
+}
+.socials a i{
+    font-size: 1.1rem;
+}
+.socials a:hover i{
+    color: bisque;
+}
+.footer-bottom{
+    color: white;
+    width: 100vw;
+    padding:20px 0;
+    text-align: center;
+}
+.footer-bottom p{
+    font-size: 14px;
+    word-spacing: 2px;
+    opacity: .3;
+}
