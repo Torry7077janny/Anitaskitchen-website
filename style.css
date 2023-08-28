@@ -143,12 +143,12 @@ body {
   justify-content: center;
   margin-top: 10%;
 }
-p{
+.div1 p{
   color: #fff;
   font-size: 30px;
   text-align: center;
   font-weight: 100;
 }
-p span{
+.div1 p span{
   font-weight:bold;
 }
