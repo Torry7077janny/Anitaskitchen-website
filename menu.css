@@ -15,7 +15,7 @@ body{
     position: relative;
     overflow:hidden;
     padding: 20px;
-    background-color: #fff;
+    background-color: #F15A29;
     top:30%;
     width: 80%;
    }
@@ -46,7 +46,7 @@ body{
     height: 100%;
     padding-top: 10px; 
     font-size: 12px;
-    color: #F15A29;
+    color: black;
 }
 #previous , #next{
     border: none;
@@ -58,7 +58,7 @@ body{
     justify-content: center;
     align-items: center;
     /* background: linear-gradient(90deg,rgba(255,255,255,0)0% #fff); */
-    background: #fff;
+    background: #F15A29;
     cursor: pointer;
     z-index: 9;
 }
