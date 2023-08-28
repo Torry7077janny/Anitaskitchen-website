@@ -55,7 +55,7 @@ These are some of the images of the pages in the website:
 
 | Home page                                        | our contact                                          |
 | -------------------------------------------------| ---------------------------------------------------- |
-|  ![home](./images/home.png)                      | ![contact](./images/contact.png)                     |
+|  ![home](./images/contact.png)                      | ![contact](./images/home.png)                     |
 
 
 ## Author
