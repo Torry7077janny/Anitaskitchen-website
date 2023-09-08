@@ -48,7 +48,7 @@ code .
 \\\
 so as to be able to open to your visual studio code .
 
-7.In your visual studio code you click on open liveserver that should take you to chrome browser and you will be able to view the streetfood website.
+7.In your visual studio code you click on open liveserver that should take you to chrome browser and you will be able to view the Anitas kitchen website.
 
 ## Screenshots 
 These are some of the images of the pages in the website:
